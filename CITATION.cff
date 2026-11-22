@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng mã nguồn hoặc dữ liệu từ dự án này trong nghiên cứu, vui lòng trích dẫn theo thông tin dưới đây."
+title: "Ứng dụng Trí tuệ nhân tạo (AI) trong phát hiện tin giả trên mạng xã hội tiếng Việt"
+version: 1.0.0
+date-released: 2026-11-22
+license: MIT
+repository-code: "https://github.com/hungm2526005/vietnamese-fake-news-detection"
+authors:
+  - family-names: "Phan"
+    given-names: "Nguyen Thanh Hung"
+    affiliation: "Trường Công nghệ Thông tin và Truyền thông, Đại học Cần Thơ"
+    email: "hungm2526005@gstudent.ctu.edu.vn"
